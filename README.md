@@ -1,4 +1,4 @@
-# DataScience_and_AppliedMachineLearning
+# Data Science and Machine Learning
 
 Τα τρία project αυτού του repository πραγματοποιήθηκαν στα πλαίσια του διαδικτυακού μαθήματος <b>Επιστήμη Δεδομένων και Εφαρμοσμένη Μηχανική Μάθηση με Python</b> που προσφέρει το <b>Mathesis</b>.
 
